@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sandun Pradeepa</h1>
 <h3 align="center">A passionate Software & Web Developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://twitter.com/sandunpradeepa" target="blank"><img src="https://img.shields.io/twitter/follow/sandunpradeepa?logo=twitter&style=for-the-badge" alt="sandunpradeepa" /></a> </p>
+<p align="center"> <a href="https://twitter.com/sandunpradeepa" target="blank"><img src="https://img.shields.io/twitter/follow/sandunpradeepa?logo=twitter&style=for-the-badge" alt="sandunpradeepa" /></a> </p>
 
 - 🌱 I’m currently learning **PYTHON, REACT.JS**
 
