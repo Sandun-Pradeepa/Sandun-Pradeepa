@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sandunpradeep21@gmail.com**
 
-- 📄 Know about my experiences [DOWNLOAD MY CV [https://drive.google.com/file/d/1hNyEOGYGPxjWqwPIS3ULzxF_Q50WV4l0/view?usp=sharing]](DOWNLOAD MY CV [https://drive.google.com/file/d/1hNyEOGYGPxjWqwPIS3ULzxF_Q50WV4l0/view?usp=sharing])
+- 📄 Know about my experiences [DOWNLOAD MY CV] [https://drive.google.com/file/d/1hNyEOGYGPxjWqwPIS3ULzxF_Q50WV4l0/view?usp=sharing]
 
 - ⚡ Fun fact **I think I am a singer, traveller & foodie lover**
 
